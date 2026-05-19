@@ -13,7 +13,7 @@
 
 ---
 
-I used to wonder what it would feel like if someone else could just **step inside** a feeling I was having for a minute. Games are the closest answer I've found. I'm a CS sophomore at **Cairo University (Class of 2029)**, building things that don't just run — things that *land*.
+I used to wonder what it would feel like if someone else could just **step inside** a feeling I was having for a minute. Games are the closest answer I've found. I'm a CS freshman at **Cairo University (Class of 2029)**, building things that don't just run — things that *land*.
 
 ---
 
