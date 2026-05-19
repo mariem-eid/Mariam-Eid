@@ -50,12 +50,6 @@ This portfolio is a single `index.html` — no frameworks, no dependencies. Buil
 **Arabic Whales** — Python Tutor, Volunteer *(Oct 2023 – Feb 2024)*
 > Taught Python from zero to beginners with custom lesson plans and one-on-one support.
 
----
-
-## 🧠 Currently Learning
-`Shader Graph` · `Database Systems` · `Algorithms` · `Advanced Unity Architecture`
-
----
 
 ## 💬 Connect
 
